@@ -1,3 +1,5 @@
+# python -m pip install scikit-learn
+
 from sklearn.neural_network import MLPClassifier
 
 # AND gate input
